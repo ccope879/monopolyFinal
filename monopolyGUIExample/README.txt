@@ -15,6 +15,6 @@ Step 4: Open Apache NetBeans and click File-> open Project, then navigate to the
 After unzipping the folder navigate to the application. The main application should be visible in the 
 monoply-main directory.
 
-Step 5: Build and Clean the project and Run the project in Apache NetBeans.
+Step 5: Build and Clean the project and Run the project in Apache NetBeans. Set "MyLauncher.java" as the main class.
 
 Step 6: Play the game!
